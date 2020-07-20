@@ -4,7 +4,7 @@ Dataset source from Kaggle: https://www.kaggle.com/crowdflower/twitter-airline-s
 
 ## Project Structure
 
-This project was in conjunction with Coursera's programming assignment on ![Create Interactive Dashboards with Streamlit and Python](https://www.coursera.org/learn/interactive-dashboards-streamlit-python/home/welcome).
+This project was in conjunction with Coursera's programming assignment on [Create Interactive Dashboards with Streamlit and Python](https://www.coursera.org/learn/interactive-dashboards-streamlit-python/home/welcome).
 
 Task 1: Project Overview and Demo
 
