@@ -16,6 +16,7 @@ st.title("Sentiment Analysis of Tweets about US Airlines")
 st.sidebar.title("Sentiment Analysis of Tweets")
 st.markdown("This application is a Streamlit dashboard used "
             "to analyze sentiments of tweets 🐦")
+st.markdown("by **Bryan Tan**")
 st.sidebar.markdown("This application is a Streamlit dashboard used "
             "to analyze sentiments of tweets 🐦")
 
